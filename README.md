@@ -1,2 +1,2 @@
 # algorithms
-
+all types
